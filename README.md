@@ -1,0 +1,2 @@
+# c5c49a8da7bf29ac-dental-practice-financial-fore
+The fastest way to stay in flow state and ship faster. No setup fees. No learning curve.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Dental Practice Financial Forecasting And Budget Tool — fully configured and ready to
